@@ -1,0 +1,27 @@
+User Email:fairooz@gmail.com
+User Password:1234
+
+
+User Email:bbibekbhowmick2001@gmail.com
+User Password:5678
+
+**Admin Login Details**
+Username: admin
+Password: Password@123
+
+Sample Driver Access(Rafiq)(Bus-1)
+Username: 202202-00001
+Password: 123
+
+Sample Driver Access(Safiq)
+Username: 202303-00001
+Password: 567
+
+Sample Driver Access(Kamrul)
+Username: 202303-00002
+Password: 8910
+
+Sample Driver Access(Ahmed)(Bus-6)
+Username: 202303-00003
+Password: 1112
+
